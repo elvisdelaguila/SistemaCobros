@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SistemaCobros",
-    "slug": "SistemaCobros",
+    "name": "AplicacionCobros",
+    "slug": "AplicacionCobros",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
